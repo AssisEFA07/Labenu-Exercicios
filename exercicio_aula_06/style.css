@@ -1,0 +1,35 @@
+button {
+    background-color: brown;
+    color: aliceblue;
+    text-align: center;
+    font-size: 15px;
+    
+}
+header {
+    background-color: blueviolet;
+    height: 100px;
+    padding: 10px 0;
+}
+
+h1 {
+    color:#fff;
+    font-size: 40;
+    font-family:cursive;
+    text-align: center;
+   }
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    text-align:justify;
+    color: gray;
+    flex-direction: column;
+    padding-bottom: 20px;
+}
+
+.flex-container {
+    display: flex;
+    align-items: center;
+}
+
+/* isso é um comentário */
